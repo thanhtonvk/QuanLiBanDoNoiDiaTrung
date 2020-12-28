@@ -1,0 +1,13 @@
+C:\Users\thanh\source\repos\QuanLiBanDoNoiDiaTrung\obj\Debug\netcoreapp3.1\QuanLiBanDoNoiDiaTrung.csprojAssemblyReference.cache
+C:\Users\thanh\source\repos\QuanLiBanDoNoiDiaTrung\obj\Debug\netcoreapp3.1\QuanLiBanDoNoiDiaTrung.AssemblyInfoInputs.cache
+C:\Users\thanh\source\repos\QuanLiBanDoNoiDiaTrung\obj\Debug\netcoreapp3.1\QuanLiBanDoNoiDiaTrung.AssemblyInfo.cs
+C:\Users\thanh\source\repos\QuanLiBanDoNoiDiaTrung\obj\Debug\netcoreapp3.1\QuanLiBanDoNoiDiaTrung.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\QuanLiBanDoNoiDiaTrung\bin\Debug\netcoreapp3.1\QuanLiBanDoNoiDiaTrung.exe
+C:\Users\thanh\source\repos\QuanLiBanDoNoiDiaTrung\bin\Debug\netcoreapp3.1\QuanLiBanDoNoiDiaTrung.deps.json
+C:\Users\thanh\source\repos\QuanLiBanDoNoiDiaTrung\bin\Debug\netcoreapp3.1\QuanLiBanDoNoiDiaTrung.runtimeconfig.json
+C:\Users\thanh\source\repos\QuanLiBanDoNoiDiaTrung\bin\Debug\netcoreapp3.1\QuanLiBanDoNoiDiaTrung.runtimeconfig.dev.json
+C:\Users\thanh\source\repos\QuanLiBanDoNoiDiaTrung\bin\Debug\netcoreapp3.1\QuanLiBanDoNoiDiaTrung.dll
+C:\Users\thanh\source\repos\QuanLiBanDoNoiDiaTrung\bin\Debug\netcoreapp3.1\QuanLiBanDoNoiDiaTrung.pdb
+C:\Users\thanh\source\repos\QuanLiBanDoNoiDiaTrung\obj\Debug\netcoreapp3.1\QuanLiBanDoNoiDiaTrung.dll
+C:\Users\thanh\source\repos\QuanLiBanDoNoiDiaTrung\obj\Debug\netcoreapp3.1\QuanLiBanDoNoiDiaTrung.pdb
+C:\Users\thanh\source\repos\QuanLiBanDoNoiDiaTrung\obj\Debug\netcoreapp3.1\QuanLiBanDoNoiDiaTrung.genruntimeconfig.cache
